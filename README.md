@@ -19,7 +19,7 @@
 
 流程如下：
 
-![img](file:///.\img\wps7.jpg) 
+![流程图](./img/wps7.jpg) 
 
 ## 二、自定义函数原型以及核心代码片段如下：
 
@@ -79,13 +79,13 @@ for (int i = 100; i < (cx - 10); i++)
 
 ## 三、运行界面截图：
 
-<img src="file:///./img\wps11.jpg" alt="img" style="width:400px;" />	 <img src="file:///./img\\wps12.jpg" alt="img" style="width:400px;" />
+<img src="./img\wps11.jpg" alt="img" style="width:400px;" />	 <img src="./img/wps12.jpg" alt="img" style="width:400px;" />
 
 ​								灰度化处理																						边缘检测
 
  
 
-<img src="file:///./img/wps13.jpg" alt="img" style="width:400px;" />	 <img src="file:///./img\wps14.jpg" alt="img" style="width:400px;" />
+<img src="./img/wps13.jpg" alt="img" style="width:400px;" />	 <img src="./img\wps14.jpg" alt="img" style="width:400px;" />
 
 ​								特定区域提取																				绘制车道线
 
