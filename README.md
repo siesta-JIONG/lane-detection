@@ -79,13 +79,13 @@ for (int i = 100; i < (cx - 10); i++)
 
 ## 三、运行界面截图：
 
-<img src="./img\wps11.jpg" alt="img" style="width:400px;" />	 <img src="./img/wps12.jpg" alt="img" style="width:400px;" />
+<img src="./img\wps11.jpg" alt="img" style="width:350px;" />	 <img src="./img/wps12.jpg" alt="img" style="width:350px;" />
 
 ​								灰度化处理																						边缘检测
 
  
 
-<img src="./img/wps13.jpg" alt="img" style="width:400px;" />	 <img src="./img\wps14.jpg" alt="img" style="width:400px;" />
+<img src="./img/wps13.jpg" alt="img" style="width:350px;" />	 <img src="./img\wps14.jpg" alt="img" style="width:350px;" />
 
 ​								特定区域提取																				绘制车道线
 
